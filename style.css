@@ -175,6 +175,7 @@ body {
 }
 
 .textbox p {
+    padding: 10px 15px;
     font-family: 'DM Sans';
     font-style: normal;
     font-weight: 400;
